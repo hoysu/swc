@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+        <EditText
+            android:id="@+id/edittext"
+            android:layout_width="409dp"
+            android:layout_height="89dp"
+            android:hint="
+            가족들과 오늘하루를 공유하세요! "
+            tools:layout_editor_absoluteX="2dp"
+            tools:layout_editor_absoluteY="127dp" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="글올리기"
+            android:textSize="20dp"
+            tools:layout_editor_absoluteX="290dp"
+            tools:layout_editor_absoluteY="221dp" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="509dp"
+            android:text="가족소식"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="2dp"
+            tools:layout_editor_absoluteY="269dp" />
+
+
+</LinearLayout>

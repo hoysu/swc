@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@drawable/ic__home"
+        android:title="우리가족"/>
+
+    <item
+        android:id="@+id/action_game"
+        android:enabled="true"
+        android:icon="@drawable/ic__game"
+        android:title="오락공간"/>
+
+    <item
+        android:id="@+id/action_friends"
+        android:enabled="true"
+        android:icon="@drawable/ic__friends"
+        android:title="친구"/>
+
+    <item
+        android:id="@+id/action_info"
+        android:enabled="true"
+        android:icon="@drawable/ic__info"
+        android:title="건강정보"/>
+
+</menu>
