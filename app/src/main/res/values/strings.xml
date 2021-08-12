@@ -1,3 +1,13 @@
 <resources>
+    <string name="community">커뮤니티</string>
     <string name="app_name">swc_fin</string>
+    <string name="disease_ranking">노인 질환 순위</string>
+    <string name="source">출처 : 공공데이터포털</string>
+    <string name="more">더 알아보기</string>
+    <string name="learn_more">더 자세한 정보 알아보기</string>
+    <string name="disease_control">질병관리청 바로가기</string>
+    <string name="family">우리 가족</string>
+    <string name="entertainment">오락 공간</string>
+    <string name="friend">친구</string>
+    <string name="health">건강 정보</string>
 </resources>

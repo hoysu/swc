@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="치매에 좋은 영양제"
+        android:textSize="30dp"
+        android:id="@+id/bt1"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="치매에 좋은 음식"
+        android:textSize="30dp"
+        android:id="@+id/bt2"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="노인 우울증의 특징"
+        android:textSize="30dp"
+        android:id="@+id/bt3"
+        />
+
+</LinearLayout>
