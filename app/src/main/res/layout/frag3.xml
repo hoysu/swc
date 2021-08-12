@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@color/skyblue" >
 
     <TextView
         android:layout_width="269dp"
@@ -14,7 +15,7 @@
         android:layout_marginLeft="16dp"
         android:layout_marginTop="16dp"
         android:text=" @string/community"
-        android:textColor="#5467D5"
+        android:textColor="#4682B4"
         android:textSize="30sp"
         android:textStyle="bold"
         android:typeface="serif"
@@ -35,7 +36,7 @@
         android:textStyle="bold"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
-        android:textColor="#5467D5"
+        android:textColor="#4682B4"
         />
 
     <EditText
@@ -47,7 +48,7 @@
         android:layout_marginRight="20dp"
         android:inputType="text"
         android:maxLength="15"
-        android:backgroundTint="#5467D5"
+        android:backgroundTint="#4682B4"
         tools:ignore="InvalidId" />
 
     <TextView
@@ -59,7 +60,7 @@
         android:textStyle="bold"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
-        android:textColor="#5467D5"/>
+        android:textColor="#4682B4"/>
 
     <EditText
         android:id="@+id/content"
@@ -78,7 +79,7 @@
         android:layout_gravity="right"
         android:layout_marginTop="10dp"
         android:layout_marginRight="35dp"
-        android:backgroundTint="#5467D5"
+        android:backgroundTint="@color/steelblue"
         android:text="저장" />
 
     <TextView
@@ -90,7 +91,7 @@
         android:text="이름을 입력하세요."
         android:textSize="17sp"
         android:textStyle="bold"
-        android:textColor="#0027FF"
+        android:textColor="#4682B4"
         />
 
     <TextView

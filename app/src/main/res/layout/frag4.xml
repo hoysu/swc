@@ -41,35 +41,40 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="0.5dp"
-                android:text="@string/more"/>
+                android:text="@string/more"
+                android:backgroundTint="@color/steelblue" />
 
             <Button
                 android:id="@+id/btn_move2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="0.5dp"
-                android:text="@string/more"/>
+                android:text="@string/more"
+                android:backgroundTint="@color/steelblue" />
 
             <Button
                 android:id="@+id/btn_move3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="0.5dp"
-                android:text="@string/more"/>
+                android:text="@string/more"
+                android:backgroundTint="@color/steelblue" />
 
             <Button
                 android:id="@+id/btn_move4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="0.5dp"
-                android:text="@string/more"/>
+                android:text="@string/more"
+                android:backgroundTint="@color/steelblue" />
 
             <Button
                 android:id="@+id/btn_move5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="0.5dp"
-                android:text="@string/more"/>
+                android:text="@string/more"
+                android:backgroundTint="@color/steelblue" />
 
         </LinearLayout>
 

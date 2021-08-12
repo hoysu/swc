@@ -5,7 +5,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        tools:context=".MainActivity">
+        tools:context=".MainActivity"
+        android:background="@color/skyblue">
 
         <EditText
             android:id="@+id/et_today"
@@ -23,7 +24,8 @@
             android:text="글올리기"
             android:textSize="20dp"
             tools:layout_editor_absoluteX="290dp"
-            tools:layout_editor_absoluteY="221dp" />
+            tools:layout_editor_absoluteY="221dp"
+            android:backgroundTint="@color/steelblue" />
 
         <TextView
             android:id="@+id/tV_today"

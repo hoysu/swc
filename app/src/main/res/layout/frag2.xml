@@ -11,25 +11,98 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/game"
-            android:text="게임"
+            android:id="@+id/gamebt1"
+            android:text="게임 - 다른 그림 찾기"
             android:textSize="30dp"
-            android:backgroundTint="@color/steelblue" />
+            android:backgroundTint="@color/steelblue"
+            />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/health"
-            android:text="건강체조"
+            android:id="@+id/gamebt2"
+            android:text="게임 - 기억력 테스트"
             android:textSize="30dp"
-            android:backgroundTint="@color/steelblue" />
+            android:backgroundTint="@color/steelblue"
+            />
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/video"
-            android:text="영상자료실"
+            android:id="@+id/gamebt3"
+            android:text="게임 - 다른 숫자 찾기"
             android:textSize="30dp"
-            android:backgroundTint="@color/steelblue" />
+            android:backgroundTint="@color/steelblue"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/gamebt4"
+            android:text="게임 - 다른 얼굴 찾기"
+            android:textSize="30dp"
+            android:backgroundTint="@color/steelblue"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/gamebt5"
+            android:text="게임 - 숨은 그림 찾기"
+            android:textSize="30dp"
+            android:backgroundTint="@color/steelblue"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/gamebt6"
+            android:text="게임 - 관찰력 테스트"
+            android:textSize="30dp"
+            android:backgroundTint="@color/steelblue"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/gamebt7"
+            android:text="게임 - 같은 그림 찾기"
+            android:textSize="30dp"
+            android:backgroundTint="@color/steelblue"
+            />
+
+        <Button
+            android:id="@+id/healthbt1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/steelblue"
+            android:text="건강 체조"
+            android:textSize="30dp" />
+
+        <Button
+            android:id="@+id/videobt1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/steelblue"
+            android:text="영상 - 치매에 좋은 영양제"
+            android:textSize="30dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="영상 - 치매에 좋은 음식"
+            android:textSize="30dp"
+            android:id="@+id/videobt2"
+            android:backgroundTint="@color/steelblue"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="영상 - 노인 우울증의 특징"
+            android:textSize="30dp"
+            android:id="@+id/videobt3"
+            android:backgroundTint="@color/steelblue"
+            />
 
 </LinearLayout>
