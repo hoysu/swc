@@ -5,104 +5,96 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
+    android:gravity="center"
     android:orientation="vertical"
-    android:background="@color/skyblue" >
+    android:background="@color/skyblue">
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/gamebt1"
-            android:text="게임 - 다른 그림 찾기"
-            android:textSize="30dp"
-            android:backgroundTint="@color/steelblue"
-            />
+            android:text="@string/another_picture"
+            android:textSize="25sp"
+            android:backgroundTint="@color/steelblue"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/gamebt2"
-            android:text="게임 - 기억력 테스트"
-            android:textSize="30dp"
-            android:backgroundTint="@color/steelblue"
-            />
+            android:text="@string/retention_testing"
+            android:textSize="25sp"
+            android:backgroundTint="@color/steelblue"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/gamebt3"
-            android:text="게임 - 다른 숫자 찾기"
-            android:textSize="30dp"
-            android:backgroundTint="@color/steelblue"
-            />
+            android:text="@string/another_number"
+            android:textSize="25sp"
+            android:backgroundTint="@color/steelblue"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/gamebt4"
-            android:text="게임 - 다른 얼굴 찾기"
-            android:textSize="30dp"
-            android:backgroundTint="@color/steelblue"
-            />
+            android:text="@string/another_face"
+            android:textSize="25sp"
+            android:backgroundTint="@color/steelblue"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/gamebt5"
-            android:text="게임 - 숨은 그림 찾기"
-            android:textSize="30dp"
-            android:backgroundTint="@color/steelblue"
-            />
+            android:text="@string/picture_puzzle"
+            android:textSize="25sp"
+            android:backgroundTint="@color/steelblue"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/gamebt6"
-            android:text="게임 - 관찰력 테스트"
-            android:textSize="30dp"
-            android:backgroundTint="@color/steelblue"
-            />
+            android:text="@string/observation_test"
+            android:textSize="25sp"
+            android:backgroundTint="@color/steelblue"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/gamebt7"
-            android:text="게임 - 같은 그림 찾기"
-            android:textSize="30dp"
-            android:backgroundTint="@color/steelblue"
-            />
+            android:text="@string/same_picture"
+            android:textSize="25sp"
+            android:backgroundTint="@color/steelblue"/>
 
         <Button
             android:id="@+id/healthbt1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/steelblue"
-            android:text="건강 체조"
-            android:textSize="30dp" />
+            android:text="@string/calisthenics"
+            android:textSize="25sp"/>
 
         <Button
             android:id="@+id/videobt1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/steelblue"
-            android:text="영상 - 치매에 좋은 영양제"
-            android:textSize="30dp" />
+            android:text="@string/nutrition"
+            android:textSize="25sp"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="영상 - 치매에 좋은 음식"
-            android:textSize="30dp"
+            android:text="@string/food"
+            android:textSize="25sp"
             android:id="@+id/videobt2"
-            android:backgroundTint="@color/steelblue"
-            />
+            android:backgroundTint="@color/steelblue"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="영상 - 노인 우울증의 특징"
-            android:textSize="30dp"
+            android:text="@string/feature"
+            android:textSize="25sp"
             android:id="@+id/videobt3"
-            android:backgroundTint="@color/steelblue"
-            />
+            android:backgroundTint="@color/steelblue"/>
 
 </LinearLayout>

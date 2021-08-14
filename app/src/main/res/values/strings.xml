@@ -1,6 +1,25 @@
 <resources>
-    <string name="community">커뮤니티</string>
     <string name="app_name">swc_fin</string>
+    <string name="share">가족들과 오늘 하루를 공유하세요!</string>
+    <string name="posting">글 올리기</string>
+    <string name="family_news">가족 소식</string>
+    <string name="another_picture">게임 - 다른 그림 찾기</string>
+    <string name="retention_testing">게임 - 기억력 테스트</string>
+    <string name="another_number">게임 - 다른 숫자 찾기</string>
+    <string name="another_face">게임 - 다른 얼굴 찾기</string>
+    <string name="picture_puzzle">게임 - 숨은 그림 찾기</string>
+    <string name="observation_test">게임 - 관찰력 테스트</string>
+    <string name="same_picture">게임 - 같은 그림 찾기</string>
+    <string name="calisthenics">건강 체조</string>
+    <string name="nutrition">영상 - 치매에 좋은 영양제</string>
+    <string name="food">영상 - 치매에 좋은 음식</string>
+    <string name="feature">영상 - 노인 우울증의 특징</string>
+    <string name="community">커뮤니티</string>
+    <string name="name">이름</string>
+    <string name="content">내용</string>
+    <string name="save">저장</string>
+    <string name="enter_name">이름을 입력하세요.</string>
+    <string name="enter_content">내용을 입력하세요.</string>
     <string name="disease_ranking">노인 질환 순위</string>
     <string name="source">출처 : 공공데이터포털</string>
     <string name="more">더 알아보기</string>
@@ -10,4 +29,6 @@
     <string name="entertainment">오락 공간</string>
     <string name="friend">친구</string>
     <string name="health">건강 정보</string>
+    <string name="msg_token_fmt">토큰 메세지</string>
+
 </resources>

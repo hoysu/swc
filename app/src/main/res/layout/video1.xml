@@ -9,7 +9,6 @@
         android:id="@+id/wv"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
-
-        />
+        android:layout_alignParentLeft="true"/>
 
 </LinearLayout>
