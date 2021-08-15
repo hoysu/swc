@@ -29,6 +29,6 @@
     <string name="entertainment">오락 공간</string>
     <string name="friend">친구</string>
     <string name="health">건강 정보</string>
-    <string name="msg_token_fmt">토큰 메세지</string>
-
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="fcm_message">FcmTitle</string>
 </resources>
